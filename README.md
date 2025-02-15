@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning **Full Stack Web Development** 🤖  
 
-📫 How to reach me: [ompimple04@gmail.com@gmail.com](mailto:ompimple04@gmail.com)  
+📫 How to reach me: [ompimple04@gmail.com](mailto:ompimple04@gmail.com)  
 
 ⚡ **Fun Fact:** I think I'm funny 😅  
 
