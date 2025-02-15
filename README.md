@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**OmPimple26/OmPimple26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OmPimple26/OmPimple26** is a ✨ _special_ ✨ repository because its `README.md` file appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
