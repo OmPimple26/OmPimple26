@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ---
 
 ### 🌍 Connect with me:  
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)](https://github.com/OmPimple26)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/om-pimple-0042822b3
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)](https://github.com/OmPimple26)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/om-pimple-0042822b3
+
 
 )  
 
