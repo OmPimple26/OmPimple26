@@ -35,29 +35,29 @@
 #### 💻 Frontend Development
 | Technology     | Badge                                                                 | Proficiency |
 |----------------|------------------------------------------------------------------------|-------------|
-| **HTML5**      | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)      | ![Progress](https://progress-bar.dev/60/?width=200&color=FF9800)  |
-| **CSS3**       | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)         | ![Progress](https://progress-bar.dev/50/?width=200&color=2196F3)  |
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Progress](https://progress-bar.dev/30/?width=200&color=FFEB3B)  |
+| **HTML5**      | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)      | ██████░░░░ 60% |
+| **CSS3**       | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)         | █████░░░░░ 50% |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ███░░░░░░░ 30% |
 
 #### 🧠 Backend Development
 | Technology     | Badge                                                                 | Proficiency |
 |----------------|------------------------------------------------------------------------|-------------|
-| **Python**     | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)   | ![Progress](https://progress-bar.dev/40/?width=200&color=4CAF50)  |
-| **Java**       | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)         | ![Progress](https://progress-bar.dev/30/?width=200&color=F44336)  |
-| **PHP**        | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)            | ![Progress](https://progress-bar.dev/20/?width=200&color=9C27B0)  |
-| **C**          | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)                  | ![Progress](https://progress-bar.dev/40/?width=200&color=03A9F4)  |
+| **Python**     | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)   | ████░░░░░░ 40% |
+| **Java**       | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)         | ███░░░░░░░ 30% |
+| **PHP**        | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)            | ██░░░░░░░░ 20% |
+| **C**          | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)                  | ████░░░░░░ 40% |
 
 #### 🗄️ Databases
 | Technology     | Badge                                                                 | Proficiency |
 |----------------|------------------------------------------------------------------------|-------------|
-| **MySQL**      | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)      | ![Progress](https://progress-bar.dev/30/?width=200&color=00BCD4)  |
+| **MySQL**      | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)      | ███░░░░░░░ 30% |
 
 #### ⚙️ Tools & Technologies
 | Tool           | Badge                                                                 | Proficiency |
 |----------------|------------------------------------------------------------------------|-------------|
-| **Git**        | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)            | ![Progress](https://progress-bar.dev/40/?width=200&color=795548)  |
-| **Linux**      | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)      | ![Progress](https://progress-bar.dev/20/?width=200&color=607D8B)  |
-| **GitHub**     | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)   | ![Progress](https://progress-bar.dev/50/?width=200&color=333333)  |
+| **Git**        | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)            | ████░░░░░░ 40% |
+| **Linux**      | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)      | ██░░░░░░░░ 20% |
+| **GitHub**     | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)   | █████░░░░░ 50% |
 
 
 ---
