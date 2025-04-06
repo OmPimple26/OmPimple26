@@ -1,7 +1,7 @@
 <!-- Profile Banner (Optional - Replace the URL with your custom banner image) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-landing-banner-placeholder.com/banner.png" alt="Om Pimple Banner" width="100%">
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Om Pimple</h1>
 <h3 align="center">💻 Coding Enthusiast | 🚀 Tech Explorer | Future Full Stack Developer</h3>
@@ -10,8 +10,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 BTech Computer Engineering Student @ DBATU  
-- 🔭 Currently working on: Web Dev projects, Django, REST APIs  
+- 🎓 Third Year BTech Computer Engineering Student @ DBATU  
+- 🔭 Currently working on: ML Project  
 - 🌱 Learning: Full Stack Web Development, Data Science & AI  
 - 🤝 Open to: Collaborations, Hackathons & Internship Opportunities  
 - 📫 Reach me at: [ompimple04@gmail.com](mailto:ompimple04@gmail.com)  
@@ -77,7 +77,7 @@
 
 ### ✨ Want to Work Together?
 
-I'm always open to interesting collaborations, internships, and project opportunities. Let's connect and build something great together!
+> I'm always open to interesting collaborations, internships, and project opportunities. Let's connect and build something great together!
 
 ---
 
