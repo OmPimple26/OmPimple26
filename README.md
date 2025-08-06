@@ -4,7 +4,7 @@
 </p> -->
 
 <h1 align="center">Hi 👋, I'm Om Pimple</h1>
-<h3 align="center">💻 Coding Enthusiast | 🚀 Tech Explorer | Future Full Stack Developer</h3>
+<h3 align="center">💻 Coding Enthusiast | 🚀 Tech Explorer | Future Machine Learning Engineer</h3>
 
 ---
 
