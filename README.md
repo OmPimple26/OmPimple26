@@ -10,9 +10,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Third Year BTech Computer Engineering Student @ DBATU  
+- 🎓 Fourth Year BTech Computer Engineering Student @ DBATU  
 - 🔭 Currently working on: ML Project  
-- 🌱 Learning: Full Stack Web Development, Data Science & AI  
+- 🌱 Learning: Full Stack Web Development, Data Science & AI/ML  
 - 🤝 Open to: Collaborations, Hackathons & Internship Opportunities  
 - 📫 Reach me at: [ompimple04@gmail.com](mailto:ompimple04@gmail.com)  
 - ⚡ Fun fact: I laugh at my own jokes so you don't have to 😄  
