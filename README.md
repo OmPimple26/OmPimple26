@@ -65,7 +65,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmPimple26&show_icons=true&theme=tokyonight&hide_border=true" alt="Om's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmPimple26&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Om's GitHub Stats" />
   <br>
   <img src="https://streak-stats.demolab.com?user=OmPimple26&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br>
