@@ -76,27 +76,27 @@
 
 ---
 
-### 🏆 Achievements & Certifications
-
-- 📜 [Python for Everybody – Coursera](#)  
-- 📜 [Introduction to Web Development – FreeCodeCamp](#)  
-- 📜 [Git & GitHub Essentials – Udemy](#)  
-- 📜 More coming soon...
+### 🚀 Projects Showcase
+- **Placement Predictor** – ML-powered web app predicting student placements based on skills and academics.  
+- **Multiple Disease Prediction System** – AI model predicting 20+ diseases with prescription suggestions.  
+- **Pet Adoption Portal** – Platform for connecting potential adopters with shelter pets, featuring search and adoption request functionality.  
 
 ---
 
-### 📝 Blog Posts / Articles
-
-<!-- Add real links later -->
-- [Coming soon: My Journey into Full Stack Development 🚀](#)
-- [Why I Chose Django as My Web Dev Framework 🔥](#)
-- [Debugging Like a Pro – Tips from a Beginner 🧠](#)
+### 📚 Learning & Growth
+- **Currently Exploring:**  
+  - Advanced Machine Learning & Deep Learning  
+  - Full Stack Web Development
+      
+- **Recently Mastered:**  
+  - Git & GitHub workflows  
+  - MySQL database optimization techniques
 
 ---
 
 ### 💡 Quote I Live By
 
-> “The expert in anything was once a beginner.” – Helen Hayes
+> Keep Learning.
 
 ---
 
