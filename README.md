@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Fourth Year BTech Computer Engineering Student @ DBATU  
-- 🔭 Currently working on: ML Project  
+- 🔭 Currently working on: AI Powered Code Analyzer Project  
 - 🌱 Learning: Full Stack Web Development, Data Science & AI/ML  
 - 🤝 Open to: Collaborations, Hackathons & Internship Opportunities  
 - 📫 Reach me at: [ompimple04@gmail.com](mailto:ompimple04@gmail.com)  
