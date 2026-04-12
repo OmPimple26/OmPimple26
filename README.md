@@ -4,7 +4,7 @@
 </p> -->
 
 <h1 align="center">Hi 👋, I'm Om Pimple</h1>
-<h3 align="center">💻 Coding Enthusiast | 🚀 Tech Explorer | Future Machine Learning Engineer</h3>
+<h3 align="center">💻 Coding Enthusiast | 🚀 Tech Explorer | Future Software Developer</h3>
 
 ---
 
@@ -12,8 +12,8 @@
 
 - 🎓 Fourth Year BTech Computer Engineering Student @ DBATU  
 - 🔭 Currently working on: AI Powered Code Analyzer Project  
-- 🌱 Learning: Full Stack Web Development, Data Science & AI/ML  
-- 🤝 Open to: Collaborations, Hackathons & Internship Opportunities  
+- 🌱 Learning: Full Stack Web Development, AI/ML and Spring Boot 
+- 🤝 Open to: Collaborations, Hackathons, Internship and Placement Opportunities  
 - 📫 Reach me at: [ompimple04@gmail.com](mailto:ompimple04@gmail.com)  
 - ⚡ Fun fact: I laugh at my own jokes so you don't have to 😄  
 
