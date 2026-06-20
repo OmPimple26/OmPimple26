@@ -10,9 +10,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Fourth Year BTech Computer Engineering Student @ DBATU  
-- 🔭 Currently working on: AI Powered Code Analyzer Project  
-- 🌱 Learning: Full Stack Web Development, AI/ML and Spring Boot 
+- 🎓 B.Tech Computer Engineering Graduate @ DBATU  
+- 🔭 Currently working on: Luna AI : VS Code Chat Extension  
+- 🌱 Learning: Full Stack Web Development, Spring Boot and AI/ML
 - 🤝 Open to: Collaborations, Hackathons, Internship and Placement Opportunities  
 - 📫 Reach me at: [ompimple04@gmail.com](mailto:ompimple04@gmail.com)  
 - ⚡ Fun fact: I laugh at my own jokes so you don't have to 😄  
