@@ -53,8 +53,8 @@
 | Technology     | Badge                                                                 | Proficiency |
 |----------------|------------------------------------------------------------------------|-------------|
 | **MySQL**      | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)                | ████████░░ 80% |
-| **MongoDB**    | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)          | ███████░░░ 70% |
-| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ███████░░░ 70% |
+| **MongoDB**    | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)          | ████████░░ 80% |
+| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ████████░░ 80% |
 
 #### ⚙️ Tools & Technologies
 
@@ -62,9 +62,9 @@
 |----------------|------------------------------------------------------------------------|-------------|
 | **Git**        | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)             | ████████░░ 80% |
 | **GitHub**     | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)    | ████████░░ 80% |
-| **Linux**      | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)       | ████████░░ 80% |
+| **Linux**      | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)       | ███████░░░ 70% |
 | **Postman**    | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | ████████░░ 80% |
-| **Swagger**    | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) | ███████░░░ 70% |
+| **Swagger**    | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) | ████████░░ 80% |
 
 
 ---
