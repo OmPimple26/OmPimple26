@@ -1,11 +1,7 @@
-<!-- ========================================= -->
-<!--               PROFILE HEADER              -->
-<!-- ========================================= -->
-
 <h1 align="center">Hi 👋, I'm Om Pimple</h1>
 
 <h3 align="center">
-Java Full Stack Developer • Spring Boot • React • AI/ML Enthusiast
+💻 Java Full Stack Developer • 🚀 Spring Boot • ⚛️ React • 🤖 AI/ML Enthusiast
 </h3>
 
 <p align="center">
@@ -16,68 +12,41 @@ Building scalable backend systems, AI-powered applications, and developer produc
   <img src="https://komarev.com/ghpvc/?username=OmPimple26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
----
-
-# 👨‍💻 About Me
-
-🎓 B.Tech Computer Engineering Graduate from **Dr. Babasaheb Ambedkar Technological University (DBATU)**
-
-💼 Passionate about **Java Full Stack Development**, **Backend Engineering**, and **AI-powered applications**
-
-🔭 Currently building **VeriCode**, an AI-powered VS Code extension for intelligent coding assistance
-
-🌱 Currently exploring
-
-- Spring Boot Microservices
-- React.js
-- Machine Learning
-- Cloud Deployment
-
-💬 Ask me about
-
-- Java
-- Spring Boot
-- REST APIs
-- React
-- Machine Learning
-- MySQL
-
-🤝 Open to
-
-- Full-Time Opportunities
-- Software Engineering Roles
-- Open Source Contributions
-- Exciting Collaborations
-
-📫 Email
-
-**ompimple04@gmail.com**
-
-⚡ Fun Fact
-
-> I enjoy solving real-world problems through code.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/OmPimple26" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/om-pimple-0042822b3" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://ompimplepersonalportfolio.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://github.com/OmPimple26" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/om-pimple-0042822b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://ompimplepersonalportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 👨‍💻 About Me
+
+🎓 B.Tech Computer Engineering Graduate from **DBATU**
+
+💼 Passionate about **Java Full Stack Development**, **Backend Engineering**, and **AI-powered applications**
+
+🔭 **Currently Building:** VeriCode – AI-powered VS Code Extension
+
+🌱 **Currently Learning:** Spring Boot Microservices • React • AI/ML • Cloud
+
+💬 **Tech Stack:** Java • Spring Boot • React • Node.js • Python • Machine Learning
+
+🤝 **Open To:** Software Engineer • Java Developer • Full Stack Developer Roles
+
+📫 **Email:** **ompimple04@gmail.com**
+
+⚡ **Fun Fact:** I enjoy turning ideas into real-world software.
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -87,7 +56,7 @@ Building scalable backend systems, AI-powered applications, and developer produc
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### ⚙ Backend Development
+### ⚙️ Backend
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -96,32 +65,32 @@ Building scalable backend systems, AI-powered applications, and developer produc
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### 🗄 Databases
+### 🗄️ Databases
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🤖 AI & Machine Learning
+### 🤖 AI / ML
 
 <p>
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### 🧰 Tools & Technologies
+### 🧰 Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -137,87 +106,52 @@ Building scalable backend systems, AI-powered applications, and developer produc
 
 # 🚀 Featured Projects
 
-### 🔹 VeriCode
-
-AI-powered VS Code extension featuring:
-
-- AI Chat
-- Intelligent Code Analysis
-- Code Refactoring Suggestions
-- Multi-LLM Support
-- Context-Aware Development
+| 🚀 Project | 📝 Description |
+|------------|----------------|
+| 🧠 **VeriCode** | AI-powered VS Code extension with intelligent chat, code analysis, and multi-LLM support. |
+| 📧 **AI Email Writer** | Spring Boot + React application that generates professional email replies using Gemini AI. |
+| 🏢 **MyBOQ Community** | Enterprise backend with JWT Authentication, REST APIs, Spring Security, and MySQL. |
+| 🩺 **Multiple Disease Prediction** | Machine Learning application for predicting multiple diseases using Scikit-learn. |
 
 ---
 
-### 🔹 AI Email Writer
-
-Spring Boot + React + Gemini AI application with Chrome Extension that generates professional email replies directly inside Gmail.
-
----
-
-### 🔹 MyBOQ Community Backend
-
-Enterprise-grade Spring Boot backend featuring
-
-- JWT Authentication
-- REST APIs
-- Layered Architecture
-- Spring Security
-- MySQL
-- Swagger Documentation
-
----
-
-### 🔹 Multiple Disease Prediction
-
-Machine Learning application capable of predicting multiple diseases using Scikit-learn models with an interactive web interface.
-
----
-
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=OmPimple26&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmPimple26&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=OmPimple26&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmPimple26&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Exploring
 
-- Spring Boot Microservices
-- Docker & Cloud Deployment
-- System Design
-- Advanced Machine Learning
-- React Ecosystem
+- ☕ Spring Boot Microservices
+- ⚛️ Advanced React
+- 🤖 Machine Learning
+- ☁️ Docker & Cloud Deployment
+- 🏗️ System Design
 
 ---
 
 # 💡 Quote
 
-> **"Code. Learn. Build. Repeat."**
+> **"Code. Learn. Build. Repeat."** 🚀
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always excited to collaborate on innovative projects, contribute to open source, and discuss software engineering, AI, and full-stack development.
+💼 Open to **Software Engineering**, **Java Full Stack**, and **Backend Developer** opportunities.
 
-If you like my work, consider ⭐ starring my repositories.
+⭐ If you like my work, consider starring my repositories.
 
-Thanks for visiting! 🚀
+🚀 Thanks for visiting my profile. Happy Coding!
