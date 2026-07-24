@@ -117,71 +117,12 @@ Passionate about building scalable web applications, AI-powered solutions, and d
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 VeriCode
-> AI-powered code quality analyzer & developer assistant.
-
-**⚙️ Tech:** React.js • Node.js • Express.js • MongoDB • Python • AI
-
-✨ Highlights
-- 🔍 AI-powered bug & code smell detection
-- 💡 Intelligent refactoring suggestions
-- 🔐 Secure authentication & REST APIs
-- 🗄️ MongoDB-powered code analysis
-
-</td>
-
-<td width="50%">
-
-### 🎯 Placement Predictor Platform
-> ML-powered placement prediction web application.
-
-**⚙️ Tech:** React.js • Python • Flask • Machine Learning
-
-✨ Highlights
-- 🤖 Multiple ML prediction models
-- 🔗 Flask REST API integration
-- 📊 Feature engineering & preprocessing
-- ⚡ Real-time prediction results
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 👨‍💻 Real-Time Collaborative Code Editor
-> Google Docs style collaborative coding experience.
-
-**⚙️ Tech:** React.js • Node.js • WebSockets • Docker • AWS ECS
-
-✨ Highlights
-- ⚡ Real-time collaborative editing
-- 📝 Monaco Editor integration
-- 🔄 WebSocket synchronization
-- ☁️ Dockerized deployment on AWS ECS
-
-</td>
-
-<td width="50%">
-
-### ☕ Quiz & Question Microservices
-> Enterprise microservices architecture using Spring Cloud.
-
-**⚙️ Tech:** Spring Boot • Spring Cloud • Eureka • API Gateway
-
-✨ Highlights
-- 🏗️ Spring Boot Microservices
-- 🌐 Eureka Service Discovery
-- 🚪 API Gateway Routing
-- ⚙️ Centralized Config Server
-
-</td>
-</tr>
-</table>
+| 🚀 Project | 📝 Description |
+|------------|----------------|
+| 🧠 **VeriCode** | AI-powered code quality analyzer with intelligent bug detection, refactoring suggestions, and multi-LLM support. |
+| 👨‍💻 **Real-Time Collaborative Code Editor** | Google Docs–style collaborative code editor with WebSockets, Monaco Editor, Docker, and AWS ECS deployment. |
+| ☕ **Quiz & Question Microservices** | Spring Boot microservices application featuring Eureka Service Discovery, API Gateway, and Config Server. |
+| 🎯 **Placement Predictor Platform** | Machine learning platform that predicts placement chances using Flask REST APIs and a React frontend. |
 
 ---
 
