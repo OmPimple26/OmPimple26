@@ -1,27 +1,38 @@
 <h1 align="center">Hi 👋, I'm Om Pimple</h1>
 
 <h3 align="center">
-💻 Java Full Stack Developer • 🚀 Spring Boot • ⚛️ React • 🤖 AI/ML Enthusiast
+💻 Java Full Stack Developer | 🚀 Spring Boot | ⚛️ React | 🤖 AI/ML Enthusiast
 </h3>
 
 <p align="center">
-Building scalable backend systems, AI-powered applications, and developer productivity tools.
+Passionate about building scalable web applications, AI-powered solutions, and developer productivity tools.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmPimple26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/OmPimple26" target="_blank">
+  <a href="https://github.com/OmPimple26">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/om-pimple-0042822b3" target="_blank">
+  <a href="https://www.linkedin.com/in/om-pimple-0042822b3">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://ompimplepersonalportfolio.netlify.app/" target="_blank">
+  <a href="https://ompimplepersonalportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="mailto:ompimple04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OmPimple26&label=Profile+Views&color=blue&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/OmPimple26?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/OmPimple26?affiliations=OWNER&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  🌍 Chiplun, Maharashtra, India &nbsp;•&nbsp;
+  🎓 B.Tech Graduate &nbsp;•&nbsp;
+  💼 Open to Full-Time Opportunities
 </p>
 
 ---
@@ -106,12 +117,71 @@ Building scalable backend systems, AI-powered applications, and developer produc
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 📝 Description |
-|------------|----------------|
-| 🧠 **VeriCode** | AI-powered VS Code extension with intelligent chat, code analysis, and multi-LLM support. |
-| 📧 **AI Email Writer** | Spring Boot + React application that generates professional email replies using Gemini AI. |
-| 🏢 **MyBOQ Community** | Enterprise backend with JWT Authentication, REST APIs, Spring Security, and MySQL. |
-| 🩺 **Multiple Disease Prediction** | Machine Learning application for predicting multiple diseases using Scikit-learn. |
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 VeriCode
+> AI-powered code quality analyzer & developer assistant.
+
+**⚙️ Tech:** React.js • Node.js • Express.js • MongoDB • Python • AI
+
+✨ Highlights
+- 🔍 AI-powered bug & code smell detection
+- 💡 Intelligent refactoring suggestions
+- 🔐 Secure authentication & REST APIs
+- 🗄️ MongoDB-powered code analysis
+
+</td>
+
+<td width="50%">
+
+### 🎯 Placement Predictor Platform
+> ML-powered placement prediction web application.
+
+**⚙️ Tech:** React.js • Python • Flask • Machine Learning
+
+✨ Highlights
+- 🤖 Multiple ML prediction models
+- 🔗 Flask REST API integration
+- 📊 Feature engineering & preprocessing
+- ⚡ Real-time prediction results
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👨‍💻 Real-Time Collaborative Code Editor
+> Google Docs style collaborative coding experience.
+
+**⚙️ Tech:** React.js • Node.js • WebSockets • Docker • AWS ECS
+
+✨ Highlights
+- ⚡ Real-time collaborative editing
+- 📝 Monaco Editor integration
+- 🔄 WebSocket synchronization
+- ☁️ Dockerized deployment on AWS ECS
+
+</td>
+
+<td width="50%">
+
+### ☕ Quiz & Question Microservices
+> Enterprise microservices architecture using Spring Cloud.
+
+**⚙️ Tech:** Spring Boot • Spring Cloud • Eureka • API Gateway
+
+✨ Highlights
+- 🏗️ Spring Boot Microservices
+- 🌐 Eureka Service Discovery
+- 🚪 API Gateway Routing
+- ⚙️ Centralized Config Server
+
+</td>
+</tr>
+</table>
 
 ---
 
