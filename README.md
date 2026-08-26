@@ -128,9 +128,7 @@ Passionate about building scalable web applications, AI-powered solutions, and d
 
 # 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmPimple26&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Om's GitHub Stats"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=OmPimple26&show_icons=true&theme=tokyonight" height="180"/>
 
 <br>
 
@@ -140,9 +138,7 @@ Passionate about building scalable web applications, AI-powered solutions, and d
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmPimple26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmPimple26&layout=compact&theme=tokyonight" height="180"/>
 
 <br>
 
