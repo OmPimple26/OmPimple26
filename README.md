@@ -128,7 +128,6 @@ Passionate about building scalable web applications, AI-powered solutions, and d
 
 # 📈 GitHub Analytics
 
-# 📈 GitHub Analytics
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=OmPimple26&show_icons=true&theme=tokyonight" height="180"/>
 </p>
@@ -142,7 +141,7 @@ Passionate about building scalable web applications, AI-powered solutions, and d
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmPimple26&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmPimple26&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
