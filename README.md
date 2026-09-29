@@ -141,7 +141,10 @@ Passionate about building scalable web applications, AI-powered solutions, and d
 </p>
 <br>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmPimple26&theme=tokyo-night&hide_border=true"/>
+<img src="https://github.pumbas.net/api/contributions/OmPimple26?colour=7aa2f7&bgColour=1a1b27&dotColour=bb9af7&days=31" alt="OmPimple26's Contributions"/>
+</p>
+<p align="center">
+<img src="https://ghchart.rshah.org/7aa2f7/OmPimple26" alt="OmPimple26's Github Contribution Chart"/>
 </p>
 
 ---
